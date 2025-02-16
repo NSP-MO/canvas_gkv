@@ -1,7 +1,7 @@
 # Tugas Kelompok GKV
 
 ## Node.js
-Kalau belum bisa pakai npm download dulu Node.js [Di sini](https://nodejs.org/en/download/)
+Kalau belum bisa pakai npm download dulu Node.js [di sini](https://nodejs.org/en/download/)
 
 ## Instalisasi
 ```sh
