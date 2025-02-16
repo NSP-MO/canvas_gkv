@@ -11,7 +11,7 @@ npm install tweakpane
 ```
 
 ## How to run
-Pada directory canvasgkv lakukan:
+Pada directory GKV lakukan:
 ```sh
 canvas-sketch sketch-01.js --open --output=output/01
 ```
