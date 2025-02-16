@@ -13,6 +13,17 @@ npm install @ffmpeg-installer/ffmpeg --global
 npm install tweakpane
 ```
 
+## Instalisasi (Kalo mau buat sendiri)
+```sh
+npm install canvas-sketch-cli -g
+canvas-sketch sketch-01.js --new --open --output=output/01
+mkdir canvas_gkv
+cd canvas_gkv
+npm install canvas-sketch-util --save
+npm install @ffmpeg-installer/ffmpeg --global
+npm install tweakpane
+```
+
 ## How to run
 Pada directory canvas_gkv lakukan:
 ```sh
