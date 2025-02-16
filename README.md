@@ -1,5 +1,8 @@
 # Tugas Kelompok GKV
 
+## Node.js
+Kalau belum bisa pakai npm download dulu Node.js [Di sini](https://nodejs.org/en/download/)
+
 ## Instalisasi
 ```sh
 npm install canvas-sketch-cli -g
