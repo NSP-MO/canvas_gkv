@@ -5,9 +5,9 @@ Kalau belum bisa pakai npm download dulu Node.js [di sini](https://nodejs.org/en
 
 ## Instalisasi
 ```sh
-npm install canvas-sketch-cli -g
 git clone https://github.com/NSP-MO/canvas_gkv.git
 cd canvas_gkv
+npm install canvas-sketch-cli -g
 npm install canvas-sketch-util --save
 npm install @ffmpeg-installer/ffmpeg --global
 npm install tweakpane
@@ -15,9 +15,9 @@ npm install tweakpane
 
 ## Instalisasi (Kalo mau buat sendiri)
 ```sh
-npm install canvas-sketch-cli -g
 mkdir canvas_gkv
 cd canvas_gkv
+npm install canvas-sketch-cli -g
 canvas-sketch sketch-01.js --new --open --output=output/01
 npm install canvas-sketch-util --save
 npm install @ffmpeg-installer/ffmpeg --global
