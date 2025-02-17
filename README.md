@@ -13,7 +13,7 @@ npm install @ffmpeg-installer/ffmpeg --global
 npm install tweakpane
 ```
 
-## Instalisasi (Kalo mau buat sendiri)
+## Instalisasi (Kalo mau buat sendiri) -> Edit code mainly pada file .js
 ```sh
 mkdir canvas_gkv
 cd canvas_gkv
