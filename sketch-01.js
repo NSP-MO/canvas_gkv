@@ -86,14 +86,14 @@ const sketch = () => {
 
     // Pengaturan transformasi untuk setiap huruf
     const letters = [
-      { draw: drawA, x: 400, y: 400, scale: 1.0, rotation: Math.PI * 0, rotateX: 400, rotateY: 400 },
-      { draw: drawA, x: 600, y: 400, scale: 1.0, rotation: Math.PI * 0, rotateX: 600, rotateY: 400 },
-      { draw: drawR, x: 800, y: 400, scale: 1.0, rotation: Math.PI * 0, rotateX: 800, rotateY: 400 },
-      { draw: drawM, x: 400, y: 800, scale: 1.0, rotation: Math.PI * 0, rotateX: 400, rotateY: 800 },
-      { draw: drawR, x: 600, y: 800, scale: 1.0, rotation: Math.PI * 0, rotateX: 600, rotateY: 800 },
-      { draw: drawH, x: 800, y: 800, scale: 1.0, rotation: Math.PI * 0, rotateX: 800, rotateY: 800 },
-      { draw: drawM, x: 400, y: 1200, scale: 1.0, rotation: Math.PI * 0, rotateX: 400, rotateY: 1200 },
-      { draw: drawF, x: 600, y: 1200, scale: 1.0, rotation: Math.PI * 0, rotateX: 600, rotateY: 1200 }
+      { draw: drawA, x: 400, y: 400, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 400, rotateY: 400 },
+      { draw: drawA, x: 600, y: 400, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 600, rotateY: 400 },
+      { draw: drawR, x: 800, y: 400, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 800, rotateY: 400 },
+      { draw: drawM, x: 400, y: 800, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 400, rotateY: 800 },
+      { draw: drawR, x: 600, y: 800, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 600, rotateY: 800 },
+      { draw: drawH, x: 800, y: 800, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 800, rotateY: 800 },
+      { draw: drawM, x: 400, y: 1200, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 400, rotateY: 1200 },
+      { draw: drawF, x: 600, y: 1200, scale: 1.0, rotation: Math.PI * (0 / 180), rotateX: 600, rotateY: 1200 }
     ];
 
     // Gambar huruf dengan transformasi
